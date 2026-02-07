@@ -1,0 +1,225 @@
+Contract Review Summary
+
+1. Scope
+Status:
+Impact: (Low / Medium / High / NA)
+Key Points:
+- 
+Remarks (if any):
+
+2. Duration
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+3. Deliverables
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+4. Location / Geographical Scope
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+5. Timelines
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+6. Technical Architecture
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+7. Scope Assumptions and Exclusions
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+8. Service Level Agreements (SLAs)
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+9. Project Structure, Roles and Responsibilities
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+10. Handling Changes to Baseline
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+11. Commercial Model
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+12. Billing Model
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+13. Overhead Expenses
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+14. Incentives / Disincentives
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+15. Procurement and Licensing Model
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+16. Operations Model
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+17. Acceptance Criteria
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+18. Performance Criteria
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+19. Discretionary Hours / Development Effort
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+20. Minimum Skill Set
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+21. Resource Deployment / Replacement Guidelines
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+22. Subcontracting / Consortium Guidelines
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+23. Handholding Support (Post Go-Live)
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+24. Ongoing Operations Support
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+25. Technical SOPs and Training to Ops Team
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+26. Training and Awareness of End Users
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+27. Intellectual Property and Source Code Ownership
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+28. Requirements / Support from Client
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+29. Governance and Reporting
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+30. Contract Exit Mechanism
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+31. Payment Terms
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):
+
+32. Non-Functional Requirements
+Status:
+Impact:
+Key Points:
+-
+Remarks (if any):

@@ -1,0 +1,59 @@
+Clause Number,Clause Title,Status,Impact,Key Points,Remarks
+1,Scope,Covered,High,"Business consultancy and technical services to Party A and its subsidiaries
+Research, development, production, test, operation, and maintenance of relevant technology
+Development of internet platforms and systems
+Design of tour products
+Consultancy services related to the sale and promotion of tour products",The scope of the agreement is comprehensive and covers various aspects of business cooperation.
+2,Duration,Covered,Medium,"Commencement from the execution date
+End on the expiration date of the operation term of Party B
+Termination under certain circumstances","The duration of the agreement is tied to the operation term of Party B, which may lead to uncertainty."
+3,Deliverables,Partially Covered,Medium,"Service fee (Service Fee) from Party A or its subsidiaries
+Profits gained by Party A or its subsidiaries
+Research, development, production, test, operation, and maintenance of relevant technology
+Development of internet platforms and systems
+Design of tour products
+Consultancy services related to the sale and promotion of tour products","The deliverables are not clearly specified, and the focus is more on the services provided."
+4,Location / Geographical Scope,Not Covered,Low,,The geographical scope of the agreement is not mentioned.
+5,Timelines,Partially Covered,Medium,"Commencement from the execution date
+Termination under certain circumstances
+Three consecutive years for force majeure","The timelines are not clearly specified, and the focus is more on the duration of the agreement."
+6,Technical Architecture,Not Covered,Low,,The technical architecture of the agreement is not mentioned.
+7,Scope Assumptions and Exclusions,Partially Covered,Medium,"Exclusive cooperation between Party A and Party B
+No establishment of same or similar cooperative relationship with any third party without prior written consent from Party B
+Termination under certain circumstances",The scope assumptions and exclusions are not clearly specified.
+8,Service Level Agreements (SLAs),Not Covered,Low,,The service level agreements are not mentioned.
+9,"Project Structure, Roles and Responsibilities",Partially Covered,Medium,"Authorized representatives of the parties
+Chairman of Nanjing Tuniu Technology Co., Ltd. and Beijing Tuniu Technology Co., Ltd.
+Obligations of each party",The project structure and roles and responsibilities are not clearly specified.
+10,Handling Changes to Baseline,Not Covered,Low,,The process for handling changes to the baseline is not mentioned.
+11,Commercial Model,Covered,High,"Service fee (Service Fee) from Party A or its subsidiaries
+Profits gained by Party A or its subsidiaries",The commercial model is based on the service fee and profits gained by Party A or its subsidiaries.
+12,Billing Model,Covered,High,"Service fee (Service Fee) from Party A or its subsidiaries
+Profits gained by Party A or its subsidiaries",The billing model is based on the service fee and profits gained by Party A or its subsidiaries.
+13,Overhead Expenses,Not Covered,Low,,The overhead expenses are not mentioned.
+14,Incentives / Disincentives,Not Covered,Low,,The incentives and disincentives are not mentioned.
+15,Procurement and Licensing Model,Not Covered,Low,,The procurement and licensing model is not mentioned.
+16,Operations Model,Partially Covered,Medium,"Research, development, production, test, operation, and maintenance of relevant technology
+Development of internet platforms and systems
+Design of tour products
+Consultancy services related to the sale and promotion of tour products",The operations model is not clearly specified.
+17,Acceptance Criteria,Not Covered,Low,,The acceptance criteria are not mentioned.
+18,Performance Criteria,Not Covered,Low,,The performance criteria are not mentioned.
+19,Discretionary Hours / Development Effort,Not Covered,Low,,The discretionary hours and development effort are not mentioned.
+20,Minimum Skill Set,Not Covered,Low,,The minimum skill set is not mentioned.
+21,Resource Deployment / Replacement Guidelines,Not Covered,Low,,The resource deployment and replacement guidelines are not mentioned.
+22,Subcontracting / Consortium Guidelines,Not Covered,Low,,The subcontracting and consortium guidelines are not mentioned.
+23,Handholding Support (Post Go-Live),Not Covered,Low,,The handholding support is not mentioned.
+24,Ongoing Operations Support,Not Covered,Low,,The ongoing operations support is not mentioned.
+25,Technical SOPs and Training to Ops Team,Not Covered,Low,,The technical SOPs and training to the ops team are not mentioned.
+26,Training and Awareness of End Users,Not Covered,Low,,The training and awareness of end users are not mentioned.
+27,Intellectual Property and Source Code Ownership,Not Covered,Low,,The intellectual property and source code ownership are not mentioned.
+28,Requirements / Support from Client,Not Covered,Low,,The requirements and support from the client are not mentioned.
+29,Governance and Reporting,Partially Covered,Medium,"Authorized representatives of the parties
+Chairman of Nanjing Tuniu Technology Co., Ltd. and Beijing Tuniu Technology Co., Ltd.
+Obligations of each party",The governance and reporting are not clearly specified.
+30,Contract Exit Mechanism,Covered,High,"Termination under certain circumstances
+Three consecutive years for force majeure",The contract exit mechanism is based on the termination under certain circumstances.
+31,Payment Terms,Covered,High,"Service fee (Service Fee) from Party A or its subsidiaries
+Profits gained by Party A or its subsidiaries",The payment terms are based on the service fee and profits gained by Party A or its subsidiaries.
+32,Non-Functional Requirements,Not Covered,Low,,The non-functional requirements are not mentioned.

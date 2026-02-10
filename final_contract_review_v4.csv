@@ -1,0 +1,47 @@
+Clause Number,Clause Title,Status,Impact,Key Points,Remarks
+1,Scope,Covered,High,"The parties will engage in the internet-based sale and promotion of tour products.
+Party B will provide business consultancy and technical services to Party A and its subsidiaries.
+The scope includes research, development, production, test, operation, and maintenance of relevant technology, as well as consultancy services related to sale and promotion of tour products.","The scope is clearly defined, but it may be beneficial to include a detailed list of specific services and deliverables."
+2,Duration,Covered,Medium,"The cooperation will commence from the execution date.
+The term of cooperation will end on the expiration date of the operation term of Party B.
+The agreement can be terminated prior to the expiration of the Term of Cooperation upon occurrence of certain circumstances.","The duration is clearly defined, but the specific end date of the operation term of Party B is not specified."
+3,Deliverables,Partially Covered,High,"Party B will provide research, development, production, test, operation, and maintenance of relevant technology.
+Party B will provide consultancy services related to sale and promotion of tour products.
+The deliverables are not explicitly listed, but they are implied in the scope of services.",It would be beneficial to include a detailed list of specific deliverables to ensure clarity and avoid misunderstandings.
+4,Location / Geographical Scope,Not Covered,Low,,The location and geographical scope of the cooperation are not specified in the contract.
+5,Timelines,Partially Covered,Medium,"The cooperation will commence from the execution date.
+The agreement can be terminated prior to the expiration of the Term of Cooperation upon occurrence of certain circumstances.
+The specific timelines for deliverables and milestones are not specified.",It would be beneficial to include a detailed project schedule with specific timelines for deliverables and milestones.
+6,Technical Architecture,Not Covered,High,,The technical architecture of the cooperation is not specified in the contract.
+7,Scope Assumptions and Exclusions,Partially Covered,Medium,"Party A irrevocably undertakes to take Party B as its exclusive and sole partner.
+Party A shall not establish any same or similar cooperative relationship with any third party without prior written consent of Party B.
+The scope assumptions and exclusions are not explicitly listed, but they are implied in the agreement.",It would be beneficial to include a detailed list of scope assumptions and exclusions to ensure clarity and avoid misunderstandings.
+8,Service Level Agreements (SLAs),Not Covered,Medium,,The service level agreements are not specified in the contract.
+9,"Project Structure, Roles and Responsibilities",Partially Covered,High,"Each party represents and warrants to the other party that it has sufficient capacity for action, power, and authorization to execute and perform the agreement.
+The project structure, roles, and responsibilities are not explicitly listed, but they are implied in the agreement.","It would be beneficial to include a detailed project structure, roles, and responsibilities to ensure clarity and avoid misunderstandings."
+10,Handling Changes to Baseline,Not Covered,Medium,,The process for handling changes to the baseline is not specified in the contract.
+11,Commercial Model,Covered,High,"Party B will charge a quarterly service fee (Service Fee) from Party A or its subsidiaries, equal to the amount of profits gained by Party A or its subsidiaries.","The commercial model is clearly defined, but it may be beneficial to include a detailed breakdown of the service fee calculation."
+12,Billing Model,Covered,Medium,Party B will charge a quarterly service fee (Service Fee) from Party A or its subsidiaries.,"The billing model is clearly defined, but it may be beneficial to include a detailed breakdown of the service fee calculation."
+13,Overhead Expenses,Not Covered,Low,,The overhead expenses are not specified in the contract.
+14,Incentives / Disincentives,Not Covered,Medium,,The incentives and disincentives are not specified in the contract.
+15,Procurement and Licensing Model,Not Covered,High,,The procurement and licensing model is not specified in the contract.
+16,Operations Model,Partially Covered,High,"Party B will provide research, development, production, test, operation, and maintenance of relevant technology.
+Party B will provide consultancy services related to sale and promotion of tour products.","The operations model is partially covered, but it may be beneficial to include a detailed description of the operational processes."
+17,Acceptance Criteria,Not Covered,Medium,,The acceptance criteria are not specified in the contract.
+18,Performance Criteria,Not Covered,Medium,,The performance criteria are not specified in the contract.
+19,Discretionary Hours / Development Effort,Not Covered,Low,,The discretionary hours and development effort are not specified in the contract.
+20,Minimum Skill Set,Not Covered,Medium,,The minimum skill set is not specified in the contract.
+21,Resource Deployment / Replacement Guidelines,Not Covered,Medium,,The resource deployment and replacement guidelines are not specified in the contract.
+22,Subcontracting / Consortium Guidelines,Not Covered,Medium,,The subcontracting and consortium guidelines are not specified in the contract.
+23,Handholding Support (Post Go-Live),Not Covered,Medium,,The handholding support is not specified in the contract.
+24,Ongoing Operations Support,Partially Covered,High,"Party B will provide research, development, production, test, operation, and maintenance of relevant technology.
+Party B will provide consultancy services related to sale and promotion of tour products.","The ongoing operations support is partially covered, but it may be beneficial to include a detailed description of the operational processes."
+25,Technical SOPs and Training to Ops Team,Not Covered,Medium,,The technical SOPs and training to the ops team are not specified in the contract.
+26,Training and Awareness of End Users,Not Covered,Medium,,The training and awareness of end users are not specified in the contract.
+27,Intellectual Property and Source Code Ownership,Not Covered,High,,The intellectual property and source code ownership are not specified in the contract.
+28,Requirements / Support from Client,Not Covered,Medium,,The requirements and support from the client are not specified in the contract.
+29,Governance and Reporting,Partially Covered,High,"Disputes shall be resolved through friendly negotiation.
+If the dispute cannot be resolved through negotiation, either party may submit the dispute to China International Economic and Trade Commission for arbitration in Beijing.","The governance and reporting are partially covered, but it may be beneficial to include a detailed description of the reporting requirements."
+30,Contract Exit Mechanism,Covered,High,"The agreement can be terminated prior to the expiration of the Term of Cooperation upon occurrence of certain circumstances, including bankruptcy, Party B's failure to provide services for 3 consecutive years due to force majeure, or other reasons.","The contract exit mechanism is clearly defined, but it may be beneficial to include a detailed description of the termination process."
+31,Payment Terms,Covered,High,"Party B will charge a quarterly service fee (Service Fee) from Party A or its subsidiaries, equal to the amount of profits gained by Party A or its subsidiaries.","The payment terms are clearly defined, but it may be beneficial to include a detailed breakdown of the service fee calculation."
+32,Non-Functional Requirements,Not Covered,Medium,,The non-functional requirements are not specified in the contract.

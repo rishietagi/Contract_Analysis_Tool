@@ -1,0 +1,64 @@
+Clause Number,Clause Title,Status,Impact,Key Points,Remarks
+1,**Scope**,Covered,Medium,"Business cooperation and exclusive cooperation are clearly defined in Section 1.1 and 1.2.
+Scope of services provided by Party B is mentioned in Section 1.1.
+Not specified in the contract.",
+2,**Duration**,Covered,Low,"Term of cooperation commences from the execution date and ends on the expiration date of the operation term of Party B, as mentioned in Section 4.
+Not specified in the contract.",
+3,**Deliverables**,Partially Covered,Medium,"Not specified in the contract.
+Service fee charged by Party B is mentioned in Section 3.",
+4,**Location / Geographical Scope**,Covered,Low,"Not specified in the contract.
+Governing law is mentioned in Section 7 as the laws of the People's Republic of China.",
+5,**Timelines**,Covered,Low,"Not specified in the contract.
+Term of cooperation commences from the execution date, as mentioned in Section 4.",
+6,**Technical Architecture**,Not Covered,Medium,Not specified in the contract.,
+7,**Scope Assumptions and Exclusions**,Covered,Low,"Not specified in the contract.
+Exclusive cooperation is mentioned in Section 1.2.",
+8,**Service Level Agreements (SLAs)**,Covered,Low,"Not specified in the contract.
+Service fee charged by Party B is mentioned in Section 3.",
+9,"**Project Structure, Roles and Responsibilities**",Covered,Low,"Not specified in the contract.
+Obligations of each party are mentioned in Section 6.",
+10,**Handling Changes to Baseline**,Covered,Low,"Not specified in the contract.
+Termination of the agreement is mentioned in Section 5.",
+11,**Commercial Model**,Covered,Medium,"Service fee charged by Party B is mentioned in Section 3.
+Cooperation remuneration is mentioned in Section 2.",
+12,**Billing Model**,Covered,Low,"Not specified in the contract.
+Service fee charged by Party B is mentioned in Section 3.",
+13,**Overhead Expenses**,Covered,Low,"Not specified in the contract.
+Service fee charged by Party B is mentioned in Section 3.",
+14,**Incentives / Disincentives**,Covered,Low,"Not specified in the contract.
+Cooperation remuneration is mentioned in Section 2.",
+15,**Procurement and Licensing Model**,Covered,Low,"Not specified in the contract.
+Obligations of each party are mentioned in Section 6.",
+16,**Operations Model**,Covered,Low,"Not specified in the contract.
+Obligations of each party are mentioned in Section 6.",
+17,**Acceptance Criteria**,Covered,Low,"Not specified in the contract.
+Obligations of each party are mentioned in Section 6.",
+18,**Performance Criteria**,Covered,Low,"Not specified in the contract.
+Obligations of each party are mentioned in Section 6.",
+19,**Discretionary Hours / Development Effort**,Covered,Low,"Not specified in the contract.
+Service fee charged by Party B is mentioned in Section 3.",
+20,**Minimum Skill Set**,Covered,Low,"Not specified in the contract.
+Obligations of each party are mentioned in Section 6.",
+21,**Resource Deployment / Replacement Guidelines**,Covered,Low,"Not specified in the contract.
+Obligations of each party are mentioned in Section 6.",
+22,**Subcontracting / Consortium Guidelines**,Covered,Low,"Not specified in the contract.
+Obligations of each party are mentioned in Section 6.",
+23,**Handholding Support (Post Go-Live)**,Covered,Low,"Not specified in the contract.
+Obligations of each party are mentioned in Section 6.",
+24,**Ongoing Operations Support**,Covered,Low,"Not specified in the contract.
+Obligations of each party are mentioned in Section 6.",
+25,**Technical SOPs and Training to Ops Team**,Covered,Low,"Not specified in the contract.
+Obligations of each party are mentioned in Section 6.",
+26,**Training and Awareness of End Users**,Covered,Low,"Not specified in the contract.
+Obligations of each party are mentioned in Section 6.",
+27,**Intellectual Property and Source Code Ownership**,Covered,Low,"Not specified in the contract.
+Obligations of each party are mentioned in Section 6.",
+28,**Requirements / Support from Client**,Covered,Low,"Not specified in the contract.
+Obligations of each party are mentioned in Section 6.",
+29,**Governance and Reporting**,Covered,Low,"Not specified in the contract.
+Obligations of each party are mentioned in Section 6.",
+30,**Contract Exit Mechanism**,Covered,Low,"Not specified in the contract.
+Termination of the agreement is mentioned in Section 5.",
+31,**Payment Terms**,Covered,Low,"Not specified in the contract.
+Service fee charged by Party B is mentioned in Section 3.",
+32,**Non-Functional Requirements**,Not Covered,Medium,Not specified in the contract.,

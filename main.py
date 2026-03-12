@@ -1,6 +1,6 @@
 from loader import load_contract
-from chunking import chunk_text
-from summarizer import summarize_chunk, batch_reduce
+from chunking import chunk_clauses
+from summarizer import summarize_with_context, batch_reduce
 from review import generate_contract_review
 from parser import parse_review
 
@@ -13,15 +13,11 @@ def run_pipeline():
     print("Contract loaded:", len(contract_text))
 
     # 2 Chunk
-    chunks = chunk_text(contract_text)
-
+    chunks = chunk_clauses(contract_text)
     print("Chunks:", len(chunks))
 
-    # 3 First pass
-    from concurrent.futures import ThreadPoolExecutor
-
-    with ThreadPoolExecutor(max_workers=4) as executor:
-        chunk_summaries = list(executor.map(summarize_chunk, chunks))
+    # 3 First pass (rolling context summarization)
+    chunk_summaries = summarize_with_context(chunks)
 
     print("Chunk summaries done")
 
@@ -32,7 +28,9 @@ def run_pipeline():
     combined_notes = "\n\n".join(level_3)
 
     # 5 Final review
-    final_review = generate_contract_review(combined_notes)
+    review_context = combined_notes + "\n\nRecent Clause Evidence:\n\n" + "\n\n".join(chunk_summaries[-3:])
+
+    final_review = generate_contract_review(review_context)
 
     print(final_review)
 

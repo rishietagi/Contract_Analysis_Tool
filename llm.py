@@ -10,7 +10,9 @@ def call_llm(prompt):
             {"role": "user", "content": prompt}
         ],
         options={
-            "temperature": 0
+            "temperature": 0,
+            "top_p": 0.9
+
         }
     )
 

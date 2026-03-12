@@ -1,1 +1,37 @@
-
+Clause Name,Status,Impact,Remarks
+Scope,Covered,,The contract clearly defines the purpose of the contract and the services covered.
+Duration,Covered,,"The contract includes the start and end dates, but renewal terms are not explicitly stated."
+Deliverables,Not Covered,,The contract does not specify the specific outputs or services that must be delivered.
+Location / Geographical Scope,Covered,,The contract mentions that the services are performed in the People's Republic of China.
+Timelines,Covered,,The contract includes deadlines for the Service Fee payment and dispute resolution.
+Technical Architecture,Not Covered,,"The contract does not specify the system architecture, platforms, or technology stack."
+Scope Assumptions and Exclusions,Not Covered,,The contract does not specify any assumptions or exclusions related to the scope.
+Service Level Agreements (SLAs),Not Covered,,"The contract does not include uptime guarantees, response times, or penalties for failure."
+"Project Structure, Roles and Responsibilities",Covered,,The contract clearly defines the responsibilities of the client and vendor.
+Handling Changes to Baseline,Not Covered,,The contract does not specify how changes to the baseline will be handled.
+Commercial Model,Covered,,"The contract specifies the commercial model, including the Service Fee and liquidated damages."
+Billing Model,Covered,,The contract specifies the billing schedule and invoicing structure.
+Overhead Expenses,Not Covered,,The contract does not specify who is responsible for overhead expenses.
+Incentives / Disincentives,Not Covered,,The contract does not specify any incentives or disincentives.
+Procurement and Licensing Model,Not Covered,,The contract does not specify the procurement and licensing model.
+Operations Model,Not Covered,,The contract does not specify the operations model.
+Acceptance Criteria,Not Covered,,The contract does not specify the acceptance criteria.
+Performance Criteria,Not Covered,,The contract does not specify the performance criteria.
+Discretionary Hours / Development Effort,Not Covered,,The contract does not specify the discretionary hours or development effort.
+Minimum Skill Set,Not Covered,,The contract does not specify the minimum skill set.
+Resource Deployment / Replacement Guidelines,Not Covered,,The contract does not specify the resource deployment or replacement guidelines.
+Subcontracting / Consortium Guidelines,Not Covered,,The contract does not specify the subcontracting or consortium guidelines.
+Handholding Support (Post Go-Live),Not Covered,,The contract does not specify the handholding support post go-live.
+Ongoing Operations Support,Not Covered,,The contract does not specify the ongoing operations support.
+Technical SOPs and Training to Ops Team,Not Covered,,The contract does not specify the technical SOPs or training to the ops team.
+Training and Awareness of End Users,Not Covered,,The contract does not specify the training and awareness of end users.
+Intellectual Property and Source Code Ownership,Covered,,The contract specifies that Party B will own all intellectual property.
+Requirements / Support from Client,Not Covered,,The contract does not specify the requirements or support from the client.
+Governance and Reporting,Covered,,The contract specifies the method of communication but does not specify the governance and reporting structure.
+Confidentiality,Covered,,The contract specifies the confidentiality obligations.
+Dispute Resolution,Covered,,The contract includes a dispute resolution process.
+Termination,Not Covered,,The contract does not specify the termination conditions or process.
+Liability and Indemnity,Not Covered,,The contract does not specify the liability and indemnity clauses.
+Force Majeure,Covered,,The contract includes a force majeure clause.
+Governing Law and Jurisdiction,Not Covered,,The contract does not specify the governing law and jurisdiction.
+Miscellaneous,Not Covered,,"The contract does not include any miscellaneous clauses such as waiver, assignment, or severability."

@@ -1,16 +1,41 @@
-def chunk_text(text, chunk_size=2500, overlap=250):
+import re
+
+
+def split_into_clauses(text):
+
+    """
+    Split contract text using common clause patterns
+    like:
+    1.
+    1.1
+    Article 1
+    Section 2
+    """
+
+    pattern = r"\n(?=\s*(?:Article|Section|\d+\.\d+|\d+\.)\s)"
+
+    clauses = re.split(pattern, text)
+
+    return [c.strip() for c in clauses if c.strip()]
+
+
+def chunk_clauses(text, max_chars=2500):
+
+    clauses = split_into_clauses(text)
 
     chunks = []
-    start = 0
-    text_length = len(text)
+    current_chunk = ""
 
-    while start < text_length:
+    for clause in clauses:
 
-        end = start + chunk_size
-        chunk = text[start:end]
+        if len(current_chunk) + len(clause) < max_chars:
+            current_chunk += "\n\n" + clause
 
-        chunks.append(chunk)
+        else:
+            chunks.append(current_chunk.strip())
+            current_chunk = clause
 
-        start = end - overlap
+    if current_chunk:
+        chunks.append(current_chunk.strip())
 
     return chunks

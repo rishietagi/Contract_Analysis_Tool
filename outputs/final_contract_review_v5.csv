@@ -1,64 +1,48 @@
 Clause Number,Clause Title,Status,Impact,Key Points,Remarks
-1,**Scope**,Covered,Medium,"Business cooperation and exclusive cooperation are clearly defined in Section 1.1 and 1.2.
-Scope of services provided by Party B is mentioned in Section 1.1.
-Not specified in the contract.",
-2,**Duration**,Covered,Low,"Term of cooperation commences from the execution date and ends on the expiration date of the operation term of Party B, as mentioned in Section 4.
-Not specified in the contract.",
-3,**Deliverables**,Partially Covered,Medium,"Not specified in the contract.
-Service fee charged by Party B is mentioned in Section 3.",
-4,**Location / Geographical Scope**,Covered,Low,"Not specified in the contract.
-Governing law is mentioned in Section 7 as the laws of the People's Republic of China.",
-5,**Timelines**,Covered,Low,"Not specified in the contract.
-Term of cooperation commences from the execution date, as mentioned in Section 4.",
-6,**Technical Architecture**,Not Covered,Medium,Not specified in the contract.,
-7,**Scope Assumptions and Exclusions**,Covered,Low,"Not specified in the contract.
-Exclusive cooperation is mentioned in Section 1.2.",
-8,**Service Level Agreements (SLAs)**,Covered,Low,"Not specified in the contract.
-Service fee charged by Party B is mentioned in Section 3.",
-9,"**Project Structure, Roles and Responsibilities**",Covered,Low,"Not specified in the contract.
-Obligations of each party are mentioned in Section 6.",
-10,**Handling Changes to Baseline**,Covered,Low,"Not specified in the contract.
-Termination of the agreement is mentioned in Section 5.",
-11,**Commercial Model**,Covered,Medium,"Service fee charged by Party B is mentioned in Section 3.
-Cooperation remuneration is mentioned in Section 2.",
-12,**Billing Model**,Covered,Low,"Not specified in the contract.
-Service fee charged by Party B is mentioned in Section 3.",
-13,**Overhead Expenses**,Covered,Low,"Not specified in the contract.
-Service fee charged by Party B is mentioned in Section 3.",
-14,**Incentives / Disincentives**,Covered,Low,"Not specified in the contract.
-Cooperation remuneration is mentioned in Section 2.",
-15,**Procurement and Licensing Model**,Covered,Low,"Not specified in the contract.
-Obligations of each party are mentioned in Section 6.",
-16,**Operations Model**,Covered,Low,"Not specified in the contract.
-Obligations of each party are mentioned in Section 6.",
-17,**Acceptance Criteria**,Covered,Low,"Not specified in the contract.
-Obligations of each party are mentioned in Section 6.",
-18,**Performance Criteria**,Covered,Low,"Not specified in the contract.
-Obligations of each party are mentioned in Section 6.",
-19,**Discretionary Hours / Development Effort**,Covered,Low,"Not specified in the contract.
-Service fee charged by Party B is mentioned in Section 3.",
-20,**Minimum Skill Set**,Covered,Low,"Not specified in the contract.
-Obligations of each party are mentioned in Section 6.",
-21,**Resource Deployment / Replacement Guidelines**,Covered,Low,"Not specified in the contract.
-Obligations of each party are mentioned in Section 6.",
-22,**Subcontracting / Consortium Guidelines**,Covered,Low,"Not specified in the contract.
-Obligations of each party are mentioned in Section 6.",
-23,**Handholding Support (Post Go-Live)**,Covered,Low,"Not specified in the contract.
-Obligations of each party are mentioned in Section 6.",
-24,**Ongoing Operations Support**,Covered,Low,"Not specified in the contract.
-Obligations of each party are mentioned in Section 6.",
-25,**Technical SOPs and Training to Ops Team**,Covered,Low,"Not specified in the contract.
-Obligations of each party are mentioned in Section 6.",
-26,**Training and Awareness of End Users**,Covered,Low,"Not specified in the contract.
-Obligations of each party are mentioned in Section 6.",
-27,**Intellectual Property and Source Code Ownership**,Covered,Low,"Not specified in the contract.
-Obligations of each party are mentioned in Section 6.",
-28,**Requirements / Support from Client**,Covered,Low,"Not specified in the contract.
-Obligations of each party are mentioned in Section 6.",
-29,**Governance and Reporting**,Covered,Low,"Not specified in the contract.
-Obligations of each party are mentioned in Section 6.",
-30,**Contract Exit Mechanism**,Covered,Low,"Not specified in the contract.
-Termination of the agreement is mentioned in Section 5.",
-31,**Payment Terms**,Covered,Low,"Not specified in the contract.
-Service fee charged by Party B is mentioned in Section 3.",
-32,**Non-Functional Requirements**,Not Covered,Medium,Not specified in the contract.,
+2,Duration,Covered,Low,"The term of cooperation commences from the execution date and ends on the expiration date of the operation term of Party B (Section 4).
+The duration of the cooperation is not explicitly mentioned, but it is implied to be until the expiration date of Party B's operation term.",The duration of the cooperation may need to be clarified and agreed upon by both parties to avoid any disputes.
+3,Deliverables,Partially Covered,Medium,"The deliverables of the cooperation are not explicitly mentioned in the contract.
+However, the scope of services includes research, development, production, and maintenance of relevant technology, internet platforms, and tour products (Section 1.1).
+The deliverables may include the development of technology, internet platforms, and tour products, but this is not explicitly stated.",The deliverables of the cooperation may need to be clarified and detailed during the cooperation period to ensure that both parties understand their responsibilities.
+4,Location / Geographical Scope,Covered,Low,"The location of the cooperation is not explicitly mentioned in the contract.
+However, the scope of services includes research, development, production, and maintenance of relevant technology, internet platforms, and tour products (Section 1.1).
+The geographical scope of the cooperation is implied to be limited to the People's Republic of China, as the governing law is specified as the laws of the People's Republic of China (Section 7).",The location and geographical scope of the cooperation may need to be clarified and agreed upon by both parties to avoid any disputes.
+5,Timelines,Not Covered,Medium,"The timelines for the cooperation are not explicitly mentioned in the contract.
+However, the term of cooperation commences from the execution date and ends on the expiration date of the operation term of Party B (Section 4).
+The timelines for the cooperation may need to be clarified and agreed upon by both parties to ensure that both parties understand their responsibilities.",The timelines for the cooperation may need to be clarified and detailed during the cooperation period to avoid any delays or disputes.
+6,Technical Architecture,Not Covered,Medium,"The technical architecture of the cooperation is not explicitly mentioned in the contract.
+However, the scope of services includes research, development, production, and maintenance of relevant technology, internet platforms, and tour products (Section 1.1).
+The technical architecture may need to be clarified and detailed during the cooperation period to ensure that both parties understand their responsibilities.",The technical architecture of the cooperation may need to be clarified and agreed upon by both parties to avoid any disputes.
+7,Scope Assumptions and Exclusions,Partially Covered,Medium,"The scope of services includes research, development, production, and maintenance of relevant technology, internet platforms, and tour products (Section 1.1).
+However, the scope of services does not explicitly mention any assumptions or exclusions.
+The scope of services does not include any outofscope areas or exclusions.",The scope of services may need to be clarified and detailed during the cooperation period to avoid any misunderstandings.
+8,Service Level Agreements (SLAs),Not Covered,Medium,"The service level agreements (SLAs) for the cooperation are not explicitly mentioned in the contract.
+However, the scope of services includes research, development, production, and maintenance of relevant technology, internet platforms, and tour products (Section 1.1).
+The SLAs may need to be clarified and detailed during the cooperation period to ensure that both parties understand their responsibilities.",The SLAs for the cooperation may need to be clarified and agreed upon by both parties to avoid any disputes.
+9,"Project Structure, Roles and Responsibilities",Partially Covered,Medium,"The project structure and roles and responsibilities are not explicitly mentioned in the contract.
+However, the scope of services includes research, development, production, and maintenance of relevant technology, internet platforms, and tour products (Section 1.1).
+The project structure and roles and responsibilities may need to be clarified and detailed during the cooperation period to ensure that both parties understand their responsibilities.",The project structure and roles and responsibilities of the cooperation may need to be clarified and agreed upon by both parties to avoid any disputes.
+10,Handling Changes to Baseline,Not Covered,Medium,"The process for handling changes to the baseline is not explicitly mentioned in the contract.
+However, the agreement can be terminated upon occurrence of certain circumstances, including Party B's termination in advance, bankruptcy, or failure to provide services for more than three consecutive years due to force majeure (Section 5).
+The process for handling changes to the baseline may need to be clarified and detailed during the cooperation period to ensure that both parties understand their responsibilities.",The process for handling changes to the baseline of the cooperation may need to be clarified and agreed upon by both parties to avoid any disputes.
+11,Commercial Model,Covered,Low,"The commercial model for the cooperation is based on a service fee (Service Fee) charged by Party B from Party A or its subsidiaries who have accepted Party B's Services (Section 3).
+The Service Fee is equal to the amount of profits gained by Party A or its subsidiaries.",The commercial model for the cooperation may need to be clarified and detailed during the cooperation period to ensure that both parties understand their responsibilities.
+12,Billing Model,Covered,Low,"The billing model for the cooperation is not explicitly mentioned in the contract.
+However, the commercial model is based on a service fee (Service Fee) charged by Party B from Party A or its subsidiaries who have accepted Party B's Services (Section 3).
+The Service Fee is equal to the amount of profits gained by Party A or its subsidiaries.",The billing model for the cooperation may need to be clarified and detailed during the cooperation period to ensure that both parties understand their responsibilities.
+13,Overhead Expenses,Not Covered,Medium,"The overhead expenses for the cooperation are not explicitly mentioned in the contract.
+However, the commercial model is based on a service fee (Service Fee) charged by Party B from Party A or its subsidiaries who have accepted Party B's Services (Section 3).
+The Service Fee is equal to the amount of profits gained by Party A or its subsidiaries.",The overhead expenses for the cooperation may need to be clarified and detailed during the cooperation period to ensure that both parties understand their responsibilities.
+14,Incentives / Disincentives,Not Covered,Medium,"The incentives and disincentives for the cooperation are not explicitly mentioned in the contract.
+However, the commercial model is based on a service fee (Service Fee) charged by Party B from Party A or its subsidiaries who have accepted Party B's Services (Section 3).
+The Service Fee is equal to the amount of profits gained by Party A or its subsidiaries.",The incentives and disincentives for the cooperation may need to be clarified and detailed during the cooperation period to ensure that both parties understand their responsibilities.
+15,Procurement and Licensing Model,Not Covered,Medium,"The procurement and licensing model for the cooperation is not explicitly mentioned in the contract.
+However, the scope of services includes research, development, production, and maintenance of relevant technology, internet platforms, and tour products (Section 1.1).
+The procurement and licensing model may need to be clarified and detailed during the cooperation period to ensure that both parties understand their responsibilities.",The procurement and licensing model for the cooperation may need to be clarified and agreed upon by both parties to avoid any disputes.
+16,Operations Model,Not Covered,Medium,"The operations model for the cooperation is not explicitly mentioned in the contract.
+However, the scope of services includes research, development, production, and maintenance of relevant technology, internet platforms, and tour products (Section 1.1).
+The operations model may need to be clarified and detailed during the cooperation period to ensure that both parties understand their responsibilities.",The operations model for the cooperation may need to be clarified and agreed upon by both parties to avoid any disputes.
+17,Acceptance Criteria,Not Covered,Medium,"The acceptance criteria for the cooperation are not explicitly mentioned in the contract.
+However, the scope of services includes research, development, production, and maintenance of relevant technology, internet platforms, and tour products (Section 1.1).
+The acceptance criteria may need to be clarified and detailed during the cooperation period to ensure that both parties understand their responsibilities.",The acceptance criteria for the cooperation may need to be clarified and agreed upon by both parties to avoid any disputes.
+18,Performance Criteria,Not Covered,Medium,,

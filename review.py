@@ -55,17 +55,33 @@ Rules:
 - Mark Partially Covered if incomplete.
 - Mark Not Covered if missing.
 
-For EACH section output:
-
-Status:
-Impact:
-Remarks:
-Evidence:
-
 Impact Guide:
-High = legal/commercial risk
-Medium = operational risk
-Low = minor governance gap
+- High = legal/commercial risk
+- Medium = operational risk
+- Low = minor governance gap
+
+You MUST return output in STRICT JSON format.
+
+Output format:
+[
+  {{
+    "section_number": 1,
+    "section_name": "Scope",
+    "status": "Covered | Not Covered | Partially Covered",
+    "impact": "High | Medium | Low",
+    "remarks": "...",
+    "evidence": "..."
+  }}
+]
+
+Instructions:
+- Return ALL 32 sections
+- Do NOT skip any section
+- Keep remarks concise (1–2 lines)
+- Evidence must be directly from contract or summary
+- Do NOT add explanations
+- Do NOT add text outside JSON
+- Ensure valid JSON
 
 Section Definitions:
 
@@ -113,7 +129,7 @@ Now evaluate these sections:
 1. Scope
 2. Duration
 3. Deliverables
-4. Location / Geographical Scope
+3. Location / Geographical Scope
 5. Timelines
 6. Technical Architecture
 7. Scope Assumptions and Exclusions

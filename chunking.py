@@ -19,7 +19,7 @@ def split_into_clauses(text):
     return [c.strip() for c in clauses if c.strip()]
 
 
-def chunk_clauses(text, max_chars=2500):
+def chunk_clauses(text, max_chars=2000):
 
     clauses = split_into_clauses(text)
 

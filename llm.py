@@ -1,6 +1,6 @@
 import ollama
 
-MODEL = "mistral:latest"
+MODEL = "llama3.1:8b"
 
 def call_llm(prompt):
 

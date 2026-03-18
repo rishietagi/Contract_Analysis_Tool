@@ -1,0 +1,191 @@
+[
+  {
+    "bucket_name": "Software Licensing & Commercials",
+    "applicability": {
+      "integration": 1.0,
+      "standalone": 0.6,
+      "carve_out": 1.0,
+      "spin_off": 1.0,
+      "merger": 1.0
+    },
+    "risk_patterns": [
+      "non-transferable licenses",
+      "change of control restrictions",
+      "per-seat or usage-based pricing escalation",
+      "termination rights triggered by acquisition",
+      "third-party licensing dependencies",
+      "lack of perpetual license rights",
+      "unfavorable renewal terms"
+    ],
+    "why_critical": "Licensing restrictions can block integration, increase costs, or even terminate access to critical software post-transaction.",
+    "severity_weight": 0.95
+  },
+  {
+    "bucket_name": "Hosting & Infrastructure",
+    "applicability": {
+      "integration": 1.0,
+      "standalone": 0.6,
+      "carve_out": 1.0,
+      "spin_off": 1.0,
+      "merger": 1.0
+    },
+    "risk_patterns": [
+      "single cloud provider dependency",
+      "lack of redundancy or failover",
+      "on-prem infrastructure incompatibility",
+      "high migration complexity",
+      "vendor lock-in",
+      "no disaster recovery plan",
+      "poor scalability architecture"
+    ],
+    "why_critical": "Infrastructure risks impact system availability, scalability, and integration feasibility across entities.",
+    "severity_weight": 0.9
+  },
+  {
+    "bucket_name": "Data Ownership & Portability",
+    "applicability": {
+      "integration": 1.0,
+      "standalone": 0.6,
+      "carve_out": 1.0,
+      "spin_off": 1.0,
+      "merger": 1.0
+    },
+    "risk_patterns": [
+      "unclear data ownership clauses",
+      "restricted data transfer rights",
+      "lack of data portability mechanisms",
+      "data stored with third-party vendors",
+      "no exit provisions for data retrieval",
+      "data residency constraints",
+      "incomplete data access rights"
+    ],
+    "why_critical": "Without clear ownership and portability, data cannot be transferred or used post-deal, severely limiting value realization.",
+    "severity_weight": 0.95
+  },
+  {
+    "bucket_name": "Cybersecurity & Compliance",
+    "applicability": {
+      "integration": 1.0,
+      "standalone": 0.6,
+      "carve_out": 1.0,
+      "spin_off": 1.0,
+      "merger": 1.0
+    },
+    "risk_patterns": [
+      "lack of security certifications",
+      "recent or undisclosed breaches",
+      "weak access control mechanisms",
+      "non-compliance with GDPR or regulations",
+      "absence of incident response plans",
+      "unpatched vulnerabilities",
+      "third-party security risks"
+    ],
+    "why_critical": "Cyber risks can lead to regulatory penalties, reputational damage, and operational disruption post-acquisition.",
+    "severity_weight": 1.0
+  },
+  {
+    "bucket_name": "Product Architecture & Code Quality",
+    "applicability": {
+      "integration": 1.0,
+      "standalone": 0.6,
+      "carve_out": 1.0,
+      "spin_off": 1.0,
+      "merger": 1.0
+    },
+    "risk_patterns": [
+      "monolithic architecture limiting scalability",
+      "poor code documentation",
+      "high technical debt",
+      "lack of automated testing",
+      "dependency on legacy frameworks",
+      "inconsistent coding standards",
+      "hard-coded configurations"
+    ],
+    "why_critical": "Poor architecture increases integration cost, slows innovation, and introduces long-term maintenance risks.",
+    "severity_weight": 0.85
+  },
+  {
+    "bucket_name": "Third-Party Dependencies",
+    "applicability": {
+      "integration": 1.0,
+      "standalone": 0.6,
+      "carve_out": 1.0,
+      "spin_off": 1.0,
+      "merger": 1.0
+    },
+    "risk_patterns": [
+      "critical reliance on external vendors",
+      "lack of backup vendors",
+      "API dependency risks",
+      "vendor SLA weaknesses",
+      "uncontrolled open-source usage",
+      "license violations in dependencies",
+      "dependency on unsupported software"
+    ],
+    "why_critical": "Heavy reliance on third parties can create operational bottlenecks and legal risks if not managed properly.",
+    "severity_weight": 0.9
+  },
+  {
+    "bucket_name": "IT Operations & Support",
+    "applicability": {
+      "integration": 1.0,
+      "standalone": 0.6,
+      "carve_out": 1.0,
+      "spin_off": 1.0,
+      "merger": 1.0
+    },
+    "risk_patterns": [
+      "lack of documented processes",
+      "dependency on key personnel",
+      "no SLA monitoring",
+      "manual operational workflows",
+      "poor incident management",
+      "limited support coverage",
+      "no knowledge transfer mechanisms"
+    ],
+    "why_critical": "Weak IT operations can disrupt continuity during and after transition phases.",
+    "severity_weight": 0.8
+  },
+  {
+    "bucket_name": "Transition & Separation (TSA)",
+    "applicability": {
+      "integration": 1.0,
+      "standalone": 0.2,
+      "carve_out": 1.0,
+      "spin_off": 1.0,
+      "merger": 0.6
+    },
+    "risk_patterns": [
+      "absence of transition service agreements",
+      "unclear transition timelines",
+      "dependency on seller systems post-close",
+      "lack of exit planning",
+      "no defined service levels in TSA",
+      "over-reliance on transitional support",
+      "no cost allocation clarity"
+    ],
+    "why_critical": "TSA risks can delay separation or integration, increasing operational and financial uncertainty.",
+    "severity_weight": 0.95
+  },
+  {
+    "bucket_name": "Data Privacy & Regulatory",
+    "applicability": {
+      "integration": 1.0,
+      "standalone": 0.6,
+      "carve_out": 1.0,
+      "spin_off": 1.0,
+      "merger": 1.0
+    },
+    "risk_patterns": [
+      "non-compliance with data protection laws",
+      "cross-border data transfer issues",
+      "lack of user consent mechanisms",
+      "poor data anonymization practices",
+      "absence of privacy policies",
+      "regulatory fines exposure",
+      "data misuse risks"
+    ],
+    "why_critical": "Regulatory violations can result in heavy penalties and restrict business operations across regions.",
+    "severity_weight": 1.0
+  }
+]

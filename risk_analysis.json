@@ -1,0 +1,212 @@
+{
+    "risk_score": 82.5,
+    "total_clauses": 2,
+    "risk_details": [
+        {
+            "risks": [
+                {
+                    "id": "1",
+                    "description": "absence of transition service agreements",
+                    "severity": "High",
+                    "confidence": 0.9
+                },
+                {
+                    "id": "2",
+                    "description": "unclear transition timelines",
+                    "severity": "High",
+                    "confidence": 0.8
+                },
+                {
+                    "id": "3",
+                    "description": "dependency on seller systems post-close",
+                    "severity": "High",
+                    "confidence": 0.9
+                },
+                {
+                    "id": "4",
+                    "description": "lack of exit planning",
+                    "severity": "High",
+                    "confidence": 0.8
+                },
+                {
+                    "id": "5",
+                    "description": "no defined service levels in TSA",
+                    "severity": "High",
+                    "confidence": 0.9
+                },
+                {
+                    "id": "6",
+                    "description": "over-reliance on transitional support",
+                    "severity": "High",
+                    "confidence": 0.8
+                },
+                {
+                    "id": "7",
+                    "description": "no cost allocation clarity",
+                    "severity": "High",
+                    "confidence": 0.9
+                },
+                {
+                    "id": "8",
+                    "description": "critical reliance on external vendors",
+                    "severity": "High",
+                    "confidence": 0.9
+                },
+                {
+                    "id": "9",
+                    "description": "lack of backup vendors",
+                    "severity": "High",
+                    "confidence": 0.8
+                },
+                {
+                    "id": "10",
+                    "description": "API dependency risks",
+                    "severity": "High",
+                    "confidence": 0.9
+                },
+                {
+                    "id": "11",
+                    "description": "vendor SLA weaknesses",
+                    "severity": "High",
+                    "confidence": 0.8
+                },
+                {
+                    "id": "12",
+                    "description": "uncontrolled open-source usage",
+                    "severity": "High",
+                    "confidence": 0.9
+                },
+                {
+                    "id": "13",
+                    "description": "license violations in dependencies",
+                    "severity": "High",
+                    "confidence": 0.8
+                },
+                {
+                    "id": "14",
+                    "description": "dependency on unsupported software",
+                    "severity": "High",
+                    "confidence": 0.9
+                },
+                {
+                    "id": "15",
+                    "description": "non-transferable licenses",
+                    "severity": "High",
+                    "confidence": 0.9
+                },
+                {
+                    "id": "16",
+                    "description": "change of control restrictions",
+                    "severity": "High",
+                    "confidence": 0.8
+                },
+                {
+                    "id": "17",
+                    "description": "per-seat or usage-based pricing escalation",
+                    "severity": "High",
+                    "confidence": 0.9
+                },
+                {
+                    "id": "18",
+                    "description": "termination rights triggered by acquisition",
+                    "severity": "High",
+                    "confidence": 0.8
+                },
+                {
+                    "id": "19",
+                    "description": "third-party licensing dependencies",
+                    "severity": "High",
+                    "confidence": 0.9
+                },
+                {
+                    "id": "20",
+                    "description": "lack of perpetual license rights",
+                    "severity": "High",
+                    "confidence": 0.8
+                },
+                {
+                    "id": "21",
+                    "description": "unfavorable renewal terms",
+                    "severity": "High",
+                    "confidence": 0.9
+                }
+            ],
+            "missing": [
+                {
+                    "description": "TSA risks can delay separation or integration, increasing operational and financial uncertainty.",
+                    "severity": "High",
+                    "confidence": 0.8
+                },
+                {
+                    "description": "Heavy reliance on third parties can create operational bottlenecks and legal risks if not managed properly.",
+                    "severity": "High",
+                    "confidence": 0.8
+                },
+                {
+                    "description": "Licensing restrictions can block integration, increase costs, or even terminate access to critical software post-transaction.",
+                    "severity": "High",
+                    "confidence": 0.8
+                }
+            ],
+            "anomalies": [
+                {
+                    "description": "The term and close cooperation relationship is in the best interests of the Parties and their beneficiaries.",
+                    "severity": "High",
+                    "confidence": 0.8
+                }
+            ],
+            "severity": "High",
+            "confidence": 0.8,
+            "clause_id": "4",
+            "clause_title": "After an amiable consideration, the Parties unanimously agree that the establishment of a long"
+        },
+        {
+            "risks": [
+                {
+                    "id": "R1",
+                    "description": "Lack of government approval and internal permit of corporation",
+                    "severity": "High",
+                    "confidence": 0.9
+                },
+                {
+                    "id": "R2",
+                    "description": "Insufficient capacity for action, power, and authorization to execute and perform the Agreement",
+                    "severity": "High",
+                    "confidence": 0.9
+                }
+            ],
+            "missing": [
+                {
+                    "id": "M1",
+                    "description": "Data ownership and portability clauses in the Agreement",
+                    "severity": "High",
+                    "confidence": 0.8
+                },
+                {
+                    "id": "M2",
+                    "description": "IT operations and support documentation and processes",
+                    "severity": "Medium",
+                    "confidence": 0.7
+                },
+                {
+                    "id": "M3",
+                    "description": "Software licensing and commercial agreements",
+                    "severity": "High",
+                    "confidence": 0.9
+                }
+            ],
+            "anomalies": [
+                {
+                    "id": "A1",
+                    "description": "No mention of data residency constraints in the Agreement",
+                    "severity": "High",
+                    "confidence": 0.8
+                }
+            ],
+            "severity": "High",
+            "confidence": 0.85,
+            "clause_id": "7",
+            "clause_title": "1 Each Party hereby represents and warrants to the other Party that"
+        }
+    ]
+}

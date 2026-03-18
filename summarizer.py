@@ -33,7 +33,6 @@ Contract text:
 
     response = call_llm(prompt)
 
-    print(response)
 
     return response
 

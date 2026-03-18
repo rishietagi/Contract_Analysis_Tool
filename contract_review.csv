@@ -1,0 +1,33 @@
+Section Number,Clause Name,Status,Impact,Remarks,Evidence
+1,Scope,Partially Covered,Medium,"Purpose of the contract and overall services covered are mentioned, but specific details are lacking.","Parties agree and confirm that this Agreement constitutes all understanding, interpretation, and intentions of the Parties."
+2,Duration,Not Covered,High,"Contract start date, end date, and renewal terms are not specified.",None mentioned in this section.
+3,Deliverables,Not Covered,High,Specific outputs or services that must be delivered are not mentioned.,None mentioned in this section.
+4,Location / Geographical Scope,Not Covered,Medium,Where the services are performed or geographically applicable is not specified.,None mentioned in this section.
+5,Timelines,Partially Covered,Medium,"Milestones, deadlines, and schedules are partially mentioned, but specific details are lacking.","Notice or communication sent by courier service: 7 days after sending, Notice or communication sent by facsimile: 1 day after delivery."
+6,Technical Architecture,Not Covered,High,"System architecture, platforms, and technology stack are not specified.",None mentioned in this section.
+7,Scope Assumptions and Exclusions,Not Covered,Medium,Scope assumptions and exclusions are not mentioned.,None mentioned in this section.
+8,Service Level Agreements (SLAs),Not Covered,High,"Uptime guarantees, response times, and penalties for failure are not specified.",None mentioned in this section.
+9,"Project Structure, Roles and Responsibilities",Partially Covered,Medium,"Responsibilities of client, vendor, and teams are partially mentioned, but specific details are lacking.","Parties to sign written agreement for amendment or modification, Parties to send notice or communication to each other."
+10,Handling Changes to Baseline,Not Covered,Medium,How changes to the baseline are handled is not specified.,None mentioned in this section.
+11,Commercial Model,Not Covered,High,How the engagement is structured commercially is not specified.,None mentioned in this section.
+12,Billing Model,Not Covered,High,Billing schedule and invoicing structure are not specified.,None mentioned in this section.
+13,Overhead Expenses,Not Covered,Medium,Overhead expenses are not mentioned.,None mentioned in this section.
+14,Incentives / Disincentives,Not Covered,Medium,Incentives and disincentives are not mentioned.,None mentioned in this section.
+15,Procurement and Licensing Model,Not Covered,High,Procurement and licensing model is not specified.,None mentioned in this section.
+16,Operations Model,Not Covered,High,Operations model is not specified.,None mentioned in this section.
+17,Acceptance Criteria,Not Covered,High,Acceptance criteria are not specified.,None mentioned in this section.
+18,Performance Criteria,Not Covered,High,Performance criteria are not specified.,None mentioned in this section.
+19,Discretionary Hours / Development Effort,Not Covered,Medium,Discretionary hours and development effort are not mentioned.,None mentioned in this section.
+20,Minimum Skill Set,Not Covered,Medium,Minimum skill set is not specified.,None mentioned in this section.
+21,Resource Deployment / Replacement Guidelines,Not Covered,Medium,Resource deployment and replacement guidelines are not mentioned.,None mentioned in this section.
+22,Subcontracting / Consortium Guidelines,Not Covered,Medium,Subcontracting and consortium guidelines are not mentioned.,None mentioned in this section.
+23,Handholding Support (Post Go-Live),Not Covered,Medium,Handholding support post-go-live is not mentioned.,None mentioned in this section.
+24,Ongoing Operations Support,Not Covered,Medium,Ongoing operations support is not mentioned.,None mentioned in this section.
+25,Technical SOPs and Training to Ops Team,Not Covered,Medium,Technical SOPs and training to ops team are not mentioned.,None mentioned in this section.
+26,Training and Awareness of End Users,Not Covered,Medium,Training and awareness of end users are not mentioned.,None mentioned in this section.
+27,Intellectual Property and Source Code Ownership,Partially Covered,High,"Ownership of developed software and IP rights are partially mentioned, but specific details are lacking.","Parties agree that intellectual property researched and developed, created, and invented by the Parties shall be owned by Party B, Parties to take measures to ensure employees observe confidentiality obligations."
+28,Requirements / Support from Client,Not Covered,Medium,Requirements and support from client are not mentioned.,None mentioned in this section.
+29,Governance and Reporting,Not Covered,Medium,Governance and reporting are not mentioned.,None mentioned in this section.
+30,Contract Exit Mechanism,Partially Covered,High,"Termination conditions and exit process are partially mentioned, but specific details are lacking.","Neither Party shall disclose financial and technical information to any third party without prior written consent, Parties to take measures to ensure employees observe confidentiality obligations."
+31,Payment Terms,Not Covered,High,"Payment schedule, fees, and penalties are not specified.",None mentioned in this section.
+32,Non-Functional Requirements,Not Covered,Medium,Non-functional requirements are not mentioned.,None mentioned in this section.
